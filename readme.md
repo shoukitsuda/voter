@@ -1,7 +1,7 @@
 # voter
 
 **voter** is a blockchain application built using Cosmos SDK and Tendermint and generated with [Starport](https://github.com/tendermint/starport).
-(https://tutorials.cosmos.network/voter/)
+Reference This Page →　https://tutorials.cosmos.network/voter/
 ## Get started
 
 ```
